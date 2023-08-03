@@ -24,7 +24,7 @@ function PlayToEarn() {
         <div id="sectionPTE" className="flex w-full flex-1 flex-col text-primary font-medium leading-normal bg-backColor2 py-20 sm:px-10 px-4 items-center">
             <SectionTitle title={"Play To Earn"} fromColor={"from-[#66AFF3]"} toColor={"to-[#66AFF399]"} />
             <p className="lg:text-2xl sm:text-lg text-base">
-                Venture into the epic universe of Shadow of Valhala, a game based on the "Play to Earn" concept that transports
+                Venture into the epic universe of Shadow of Valhala, a game based on the &quot;Play to Earn&quot; concept that transports
                 you to a mythical world while you earn real money. Play directly from your browser, with no downloads required.
             </p>
 
